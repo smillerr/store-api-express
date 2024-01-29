@@ -1,0 +1,11 @@
+{
+  "name": "store-express-api",
+  "version": "1.0.0",
+  "description": "REST Api for a small e commerce built with Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sebastian Miller <smillerr33@gmail.com>",
+  "license": "ISC"
+}
